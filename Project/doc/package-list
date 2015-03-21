@@ -1,2 +1,5 @@
 yahtzee
+yahtzee.controller
+yahtzee.controller.command
 yahtzee.model
+yahtzee.view
