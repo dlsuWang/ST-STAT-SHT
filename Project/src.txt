@@ -3,4 +3,6 @@
 "C:\\DLSU\\Term 6\\ST-STAT\\Requirements\\ST-STAT-SHT\\Project\\src\\yahtzee\\controller\\command\\ICommand.java"
 "C:\\DLSU\\Term 6\\ST-STAT\\Requirements\\ST-STAT-SHT\\Project\\src\\yahtzee\\model\\DiceSet.java"
 "C:\\DLSU\\Term 6\\ST-STAT\\Requirements\\ST-STAT-SHT\\Project\\src\\yahtzee\\model\\Die.java"
+"C:\\DLSU\\Term 6\\ST-STAT\\Requirements\\ST-STAT-SHT\\Project\\src\\yahtzee\\model\\ScoreCard.java"
 "C:\\DLSU\\Term 6\\ST-STAT\\Requirements\\ST-STAT-SHT\\Project\\src\\yahtzee\\view\\IView.java"
+"C:\\DLSU\\Term 6\\ST-STAT\\Requirements\\ST-STAT-SHT\\Project\\src\\yahtzee\\view\\ScorePanel.java"
